@@ -9,7 +9,6 @@
 I signed up to Frontend Mentor after being introduced my Kevin Powell. This was a simple card component with a centered image along with some text underneath. Designs that appear simple and unassuming often hides complexity. This was no exception. I hope that this project can be the 1st of many.
 
 ## Screenshot
- ![Mobile Design](/images/qr-mobile.png)
  ![Desktop Design](/images/qr-desktop.png)
 
 # My Process
